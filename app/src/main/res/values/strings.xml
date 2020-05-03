@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Pushkar Square</string>
+    <string name="instr1">\n<b><i>Pushkar Square</i></b> is a playing cards game.\nThere is a 4×4 board and a single card under the board that you have to choose empty place in the board to put it in, then the next card will open and so on.\n\nIn short, the goal is to fill the board’s frame in that way:
+    </string>
+
+    <string name="instr2">
+\n<b><i><font color= "#0000FF">Jack, Queen and King:</font></i></b>\n
+You can only put these cards in their place, when:\n
+•	Kings in corners\n
+•	Queens between the corners on the sides\n
+•	Jacks between the corners up and down\n
+Other cards you can put in any empty place.\n\n
+
+<b><i><font color= "#0000FF">Full board case:</font></i></b>\n
+If your board is full, you can take out:\n
+•	Ten cards\n
+•	Pair of two cards that their value together is Ten
+(Ace and Nine, Two and Eight…)\n
+Where is nothing more to take out the game continues.\n\n
+
+<b><i><font color= "#0000FF">Jokers:</font></i></b>\n
+You can put the joker in any empty place, and replace it by any card.\n\n
+<b><i><font color= "#32CD32">You win</font></i></b> when the frame is full in Jacks, Queens and Kings, no matter what is inside.\n\n
+<b><i><font color= "#FF0000">You lose</font></i></b> when:\n
+•	You got Jack, Queen or king and there is not place for it.\n
+•	The board is full and nothing to take out and not Joker to replace.\n\n
+
+<b><i>Good luck!</i></b></string>
+
+
+    <string name="instr1h">\n<b><i>פושקר סקוור</i></b> הוא משחק קלפים המורכב מלוח בגודל 4x4 ומקלף בודד שנמצא מתחת ללוח אותו תצטרכו למקם בלוח. לאחר שתמקמו יפתח קלף חדש וכן הלאה.\n\n
+בקצרה, המטרה היא למלא את המסגרת של הלוח בצורה הבאה:
+</string>
+    <string name="instr2h">\n<b><i><font color= "#0000FF">נסיך, מלכה ומלך:</font></i></b>\n
+לקלפים אלה יש מקום מיוחד ורק שם אפשר למקם אותם:\n
+•	מלכים בפינות.\n
+•	מלכות בין הפינות בצדדים.\n
+•	נסיכים בין הפינות למעלה ולמטה.\n
+אפשר לראות את המיקומים בתמונה למעלה.\n
+את שאר הקלפים ניתן למקם בכל מקום ריק.\n\n
+
+<b><i><font color= "#0000FF">לוח מלא:</font></i></b>\n
+כאשר הלוח מלא ניתן להוציא:\n
+•	עשרות.\n
+•	שני קלפים שערכם ביחד הוא 10 (A ו-9, 2 ו-8...).\n
+כאשר אין יותר מה להוציא המשחק ממשיך.\n\n
+
+<b><i><font color= "#0000FF">ג\'וקר:</font></i></b>\n
+את הג\'וקר ניתן למקם בכל מקום ריק בלוח, וניתן להחליף אותו בכל קלף.\n\n
+
+<b><i><font color= "#32CD32">אתה מנצח</font></i></b> כאשר מסגרת הלוח מלאה במלכים, מלכות ונסיכים (כמו בתמונה), לא משנה מה יש בחלק הפנימי בלוח.\n\n
+<b><i><font color= "#FF0000">אתה מפסיד</font></i></b> כאשר:\n
+•	יצא בקלף שמתחת ללוח מלך, מלכה או נסיך ואין לך איפה למקם אותו.\n
+•	הלוח מלא ואין מה להוציא ואין ג\'וקרים להחליף.\n\n
+
+<b><i>בהצלחה!</i></b>
+</string>
+
+</resources>
