@@ -1,6 +1,6 @@
 # AndroidPushkarSquare
 Pushkar Square is a playing cards game. There is a 4×4 board and a single card under the board that you have to choose empty place in the board to put it in, then the next card will open and so on. In short, the goal is to fill the board’s frame in that way:
-frame image
+
 Jack, Queen and King:
 
 You can only put these cards in their place, when:
