@@ -3,10 +3,10 @@ Pushkar Square is a playing cards game. There is a 4×4 board and a single card 
 
 Jack, Queen and King:
 
-You can only put these cards in their place, when:
-•	Kings in corners
-•	Queens between the corners on the sides
-•	Jacks between the corners up and down
+*You can only put these cards in their place, when:
+  *	Kings in corners
+  *	Queens between the corners on the sides
+  *	Jacks between the corners up and down
 Other cards you can put in any empty place.
 
 Full board case:
